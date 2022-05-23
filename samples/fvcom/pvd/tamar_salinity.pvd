@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+    <Collection>
+        <DataSet timestep="0.000000E+00" file="tamar_salinity_000.vtk"/>
+        <DataSet timestep="0.100000E+00" file="tamar_salinity_001.vtk"/>
+        <DataSet timestep="0.200000E+00" file="tamar_salinity_002.vtk"/>
+        <DataSet timestep="0.300000E+00" file="tamar_salinity_003.vtk"/>
+        <DataSet timestep="0.400000E+00" file="tamar_salinity_004.vtk"/>
+        <DataSet timestep="0.500000E+00" file="tamar_salinity_005.vtk"/>
+        <DataSet timestep="0.600000E+00" file="tamar_salinity_006.vtk"/>
+        <DataSet timestep="0.700000E+00" file="tamar_salinity_007.vtk"/>
+        <DataSet timestep="0.800000E+00" file="tamar_salinity_008.vtk"/>
+        <DataSet timestep="0.900000E+00" file="tamar_salinity_009.vtk"/>
+        <DataSet timestep="1.000000E+00" file="tamar_salinity_010.vtk"/>
+        <DataSet timestep="1.100000E+00" file="tamar_salinity_011.vtk"/>
+        <DataSet timestep="1.200000E+00" file="tamar_salinity_012.vtk"/>
+        <DataSet timestep="1.300000E+00" file="tamar_salinity_013.vtk"/>
+        <DataSet timestep="1.400000E+00" file="tamar_salinity_014.vtk"/>
+        <DataSet timestep="1.500000E+00" file="tamar_salinity_015.vtk"/>
+        <DataSet timestep="1.600000E+00" file="tamar_salinity_016.vtk"/>
+        <DataSet timestep="1.700000E+00" file="tamar_salinity_017.vtk"/>
+        <DataSet timestep="1.800000E+00" file="tamar_salinity_018.vtk"/>
+        <DataSet timestep="1.900000E+00" file="tamar_salinity_019.vtk"/>
+        <DataSet timestep="2.000000E+00" file="tamar_salinity_020.vtk"/>
+        <DataSet timestep="2.100000E+00" file="tamar_salinity_021.vtk"/>
+        <DataSet timestep="2.200000E+00" file="tamar_salinity_022.vtk"/>
+        <DataSet timestep="2.300000E+00" file="tamar_salinity_023.vtk"/>
+        <DataSet timestep="2.400000E+00" file="tamar_salinity_024.vtk"/>
+        <DataSet timestep="2.500000E+00" file="tamar_salinity_025.vtk"/>
+        <DataSet timestep="2.600000E+00" file="tamar_salinity_026.vtk"/>
+        <DataSet timestep="2.700000E+00" file="tamar_salinity_027.vtk"/>
+        <DataSet timestep="2.800000E+00" file="tamar_salinity_028.vtk"/>
+        <DataSet timestep="2.900000E+00" file="tamar_salinity_029.vtk"/>
+        <DataSet timestep="3.000000E+00" file="tamar_salinity_030.vtk"/>
+        <DataSet timestep="3.100000E+00" file="tamar_salinity_031.vtk"/>
+        <DataSet timestep="3.200000E+00" file="tamar_salinity_032.vtk"/>
+        <DataSet timestep="3.300000E+00" file="tamar_salinity_033.vtk"/>
+        <DataSet timestep="3.400000E+00" file="tamar_salinity_034.vtk"/>
+        <DataSet timestep="3.500000E+00" file="tamar_salinity_035.vtk"/>
+        <DataSet timestep="3.600000E+00" file="tamar_salinity_036.vtk"/>
+        <DataSet timestep="3.700000E+00" file="tamar_salinity_037.vtk"/>
+        <DataSet timestep="3.800000E+00" file="tamar_salinity_038.vtk"/>
+        <DataSet timestep="3.900000E+00" file="tamar_salinity_039.vtk"/>
+    </Collection>
+</VTKFile>

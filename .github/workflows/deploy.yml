@@ -30,6 +30,12 @@ jobs:
           cp ./samples/cow.vtp ./docs/files/
           cp ./samples/diskout-stream-binary-zlib.vtp ./docs/files/
           cp ./samples/piston.vtu ./docs/files/
+          cp ./samples/bunny.ply ./docs/files/
+          cp ./samples/kafadar-lidar-interp.vtp ./docs/files/
+          cp -a ./samples/fesom ./docs/files/
+          cp -a ./samples/fvcom ./docs/files/
+          cp -a ./samples/lfric ./docs/files/
+          cp -a ./samples/smv.vtk ./docs/files/
           cd docs
           jupyter lite build
           cp -R ./_output/extensions ./_output/lab

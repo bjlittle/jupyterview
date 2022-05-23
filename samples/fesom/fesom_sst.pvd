@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+    <Collection>
+        <DataSet timestep="0.000000E+00" file="fesom_sst_000.vtk"/>
+        <DataSet timestep="0.100000E+00" file="fesom_sst_001.vtk"/>
+        <DataSet timestep="0.200000E+00" file="fesom_sst_002.vtk"/>
+        <DataSet timestep="0.300000E+00" file="fesom_sst_003.vtk"/>
+        <DataSet timestep="0.400000E+00" file="fesom_sst_004.vtk"/>
+    </Collection>
+</VTKFile>
