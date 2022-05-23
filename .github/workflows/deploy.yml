@@ -32,8 +32,8 @@ jobs:
           cp ./samples/piston.vtu ./docs/files/
           cp ./samples/bunny.ply ./docs/files/
           cp ./samples/kafadar-lidar-interp.vtp ./docs/files/
-          cp -a ./samples/fvcom ./docs/files/
-          cp -a ./samples/lfric ./docs/files/
+          cp ./samples/orog.vtk ./docs/files/
+          cp ./samples/tamar_warp.vtk ./docs/files/
           cd docs
           jupyter lite build
           cp -R ./_output/extensions ./_output/lab
